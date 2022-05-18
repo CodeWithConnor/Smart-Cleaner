@@ -59,11 +59,6 @@
 
 
 
-<!-- TO-DO LIST -->
-## To-do List:
-
-- Add a licensing system to unlock paid/premium cleaning functions
-
 ## Features:
 **Junk File Cleanup**
 ```
