@@ -137,7 +137,7 @@ Connor Hanks — www.connorhanks.com
 
 Send me an email at hello@connorhanks.com
 
-Project Link: [https://github.com/ConnorHanks/Smart-Cleaner](https://github.com/ConnorHanks/Smart-Cleaner)
+Project Link: [https://github.com/CodeWithConnor/Smart-Cleaner](https://github.com/CodeWithConnor/Smart-Cleaner)
 
 
 
