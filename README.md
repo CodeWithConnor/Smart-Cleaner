@@ -61,16 +61,9 @@
 
 <!-- TO-DO LIST -->
 ## To-do List:
-### Major Updates:
+
 - Add a licensing system to unlock paid/premium cleaning functions
 
-### Minor Updates:
-- Add star icon next to premium function labels
-- Change font opacity for premium function labels
-
-
-
-<!-- TO-DO LIST -->
 ## Features:
 **Junk File Cleanup**
 ```
