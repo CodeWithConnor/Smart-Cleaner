@@ -102,16 +102,6 @@ MUI Cache
 ```
 
 
-<!-- CONTACT -->
-## Contact
-
-Connor Hanks — www.connorhanks.com
-
-Send me an email at hello@connorhanks.com
-
-Project Link: [https://github.com/CodeWithConnor/Smart-Cleaner](https://github.com/CodeWithConnor/Smart-Cleaner)
-
-
 
 
 
