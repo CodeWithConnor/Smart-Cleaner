@@ -1,47 +1,24 @@
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/ConnorHanks/Smart-Cleaner">
-    <img src="images/logo.png" alt="Logo" width="128" height="128">
-  </a>
-  <h3 align="center">Smart Cleaner</h3>
+# Smart Cleaner
 
-  <p align="center">
-    An advanced cleaning software for Windows, with a built-in licensing system.
-    <br />
-    <a href="https://github.com/ConnorHanks/Smart-Cleaner"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/ConnorHanks/Smart-Cleaner/blob/master/README.md#installation">Installation</a>
-    ·
-    <a href="https://github.com/ConnorHanks/Smart-Cleaner/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/ConnorHanks/Smart-Cleaner/issues">Request Feature</a>
-  </p>
-</p>
+[![GitHub license](https://img.shields.io/github/license/CodeWithConnor/Smart-Cleaner)](https://github.com/CodeWithConnor/Smart-Cleaner/blob/master/LICENSE)
 
+Welcome to the Smart Cleaner project! This is a Windows cleaning software written in C# that aims to optimize and speed up your computer.
 
-
-<!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
 * [About the Project](#about-the-project)
 * [Features](#features)
+* [Installation](#installation)
+* [Usage](#usage)
 * [Contact](#contact)
 
-
-
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<h5>Smart Cleaner is an all-in-one cleaning software written in C#.</h5>
-<h6>Smart cleaner uses 41 different cleaning techniques to speed up your computer.</h6>
+Smart Cleaner is a comprehensive cleaning software that uses 41 different techniques to free up space and improve the performance of your computer. It features cleanup options for junk files, browsers, apps, and the Windows system itself. The application is designed to be easy to use, with a simple and intuitive interface that allows you to quickly select the areas you want to clean. Some of the areas covered by Smart Cleaner include:
 
 <p align="left">
 <img src="https://i.ibb.co/8zsgTF2/screenshot.png" alt="screenshot">
  </p>
-
-
 
 ## Features:
 **Junk File Cleanup**
@@ -101,23 +78,23 @@ Run History
 MUI Cache
 ```
 
+## Installation
 
+To install Smart Cleaner, follow these steps:
 
+1. Clone this repository to your local machine using `git clone https://github.com/CodeWithConnor/Smart-Cleaner.git`
+2. Navigate to the project directory and build the solution using your preferred C# compiler or IDE
+3. Once the project has been built, you can launch Smart Cleaner by running the executable file in the project directory
 
+## Usage
 
+Using Smart Cleaner is simple:
 
+1. Launch the software from the project directory or by double-clicking on the executable file.
+2. Select the areas you want to clean from the list of options.
+3. Click the "Clean" button to begin the cleaning process.
+4. Wait for the cleaning to complete and then click the "Close" button to exit the software.
 
+## Contact
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ConnorHanks/Smart-Cleaner.svg?style=flat-square
-[contributors-url]: https://github.com/ConnorHanks/Smart-Cleaner/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ConnorHanks/Smart-Cleaner.svg?style=flat-square
-[forks-url]: https://github.com/ConnorHanks/Smart-Cleaner/network/members
-[stars-shield]: https://img.shields.io/github/stars/ConnorHanks/Smart-Cleaner.svg?style=flat-square
-[stars-url]: https://github.com/ConnorHanks/Smart-Cleaner/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ConnorHanks/Smart-Cleaner.svg?style=flat-square
-[issues-url]: https://github.com/ConnorHanks/Smart-Cleaner/issues
-[license-shield]: https://img.shields.io/github/license/ConnorHanks/Smart-Cleaner.svg?style=flat-square
-[license-url]: https://github.com/ConnorHanks/Smart-Cleaner/blob/master/LICENSE.txt
-[product-screenshot]: images/screenshot.png
+If you have any questions or suggestions about the Smart Cleaner project, please don't hesitate to reach out to me via my [GitHub profile](https://github.com/CodeWithConnor). I welcome all feedback and am open to collaboration.
